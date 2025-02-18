@@ -1,0 +1,6 @@
+TILE_OUTLINE_COLOR = "black"
+BACKGROUND_COLOR = "white"
+X_COLOR = "red"
+O_COLOR = "blue"
+
+ANIMATE_SLEEP = 0.01
