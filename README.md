@@ -3,7 +3,8 @@
 - Choose a tile and play tic-tac-toe within it to win that tile.
 
 ## How to play:
-
+1. Run python3 main.py
+2. 
 
 ## Contents:
 ## src
