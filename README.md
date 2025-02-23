@@ -10,7 +10,6 @@
 4. Take turns playing tic-tac-toe within selected tile
 
 ## Contents:
-## src
 ### constants.py
 
 ### graphics.py
