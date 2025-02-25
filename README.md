@@ -4,10 +4,11 @@
 - Made for two players
 
 ## How to play:
-1. Run python3 main.py
-2. Select number of layers
-3. Select tile to start in
-4. Take turns playing tic-tac-toe within selected tile
+1. Download project files
+2. Run python3 main.py
+3. Select number of layers
+4. Select tile to start in
+5. Take turns playing tic-tac-toe within selected tile
 
 ## Contents:
 ### constants.py
