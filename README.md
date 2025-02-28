@@ -17,5 +17,9 @@ Contains constant values for background and line colors
 ### graphics.py
 Contains functions to draw to tkinter window
 
+### tile.py
+
+### board.py
+
 ### tests.py
 Contains all unit tests for project
