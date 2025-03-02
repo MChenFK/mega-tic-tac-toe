@@ -18,8 +18,10 @@ Contains constant values for background and line colors
 Contains functions to draw to tkinter window
 
 ### tile.py
+Contains functions to draw tiles of tic-tac-toe board
 
 ### board.py
+Contains functions to draw board
 
 ### tests.py
 Contains all unit tests for project
