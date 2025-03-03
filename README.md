@@ -9,6 +9,7 @@
 3. Select number of layers
 4. Select tile to start in
 5. Take turns playing tic-tac-toe within selected tile
+6. Once inner game is finished, the tile is claimed by the winner of the inner game
 
 ## Contents:
 ### constants.py
