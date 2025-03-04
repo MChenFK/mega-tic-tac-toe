@@ -11,6 +11,7 @@
 5. Take turns playing tic-tac-toe within selected tile
 6. Once inner game is finished, the tile is claimed by the winner of the inner game
 7. Keep selecting tiles until the outter game is complete
+8. Continue until outtermost game is complete
 
 ## Contents:
 ### constants.py
